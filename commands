@@ -1,0 +1,4 @@
+1-sudo docker login
+2-sudo docker build -t Cain353/denoapp .
+4-sudo docker tag cain353/denoapp cain353/denoapp:latest
+4-sudo docker push cain353/denoapp:latest
